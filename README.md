@@ -50,4 +50,7 @@ Now Further we will  do the Data cleaning, Data validation and Data Transformati
 -	To See Report Click Here - https://app.powerbi.com/groups/me/reports/dfbfbbe4-dc64-434f-8cc4-02192e17d22d/ReportSection?experience=power-bi
 
 
+You can send this report to the Manager ..Here the Dashboard will keep on upgrading as new attachment will come from that particular client.
+
+
 
