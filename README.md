@@ -47,9 +47,7 @@ We will see data in this format..after that we will click on mail coz we want ma
 Now Further we will  do the Data cleaning, Data validation and Data Transformation. after that we will do the visualization in Power Bi and Create a report.
 
 
--	To See Report Click Here -  https://app.powerbi.com/groups/e96b60ad-19dc-4c64-9b04-fd37ca43cb78/reports/dfbfbbe4-dc64-434f-8cc4-02192e17d22d/ReportSection?experience=power-bi
-
-
+-	To See Report Click Here - https://app.powerbi.com/groups/me/reports/dfbfbbe4-dc64-434f-8cc4-02192e17d22d/ReportSection?experience=power-bi
 
 
 
